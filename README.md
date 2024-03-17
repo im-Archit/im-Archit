@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-archit" alt="im-archit" /></a> </p>
 
-- 🌱 I’m currently learning **AR-VR using Unity Engine and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m always looking to collaborate on **various projects with new people**
 
